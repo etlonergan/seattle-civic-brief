@@ -1,0 +1,1 @@
+Seattle Civic Intelligence Brief — Puget Sound Edition. A free prompt for Claude that delivers a weekly structured analysis of the policy decisions, fiscal choices, and economic forces shaping the Puget Sound region.
